@@ -1,0 +1,39 @@
+.a{
+    position: absolute;
+    z-index: 100;
+    font-family: fantasy;
+    font-weight: bolder;
+    padding: 204px;
+    font-size: 18px;
+    margin-left: 533px;
+}
+
+.r{
+    position: absolute;
+    z-index: 100;
+    font-family: fantasy;
+    font-weight: bolder;
+    font-size: 12px;
+  
+
+}
+.w{
+    position: absolute;
+    z-index: 100;
+    font-family: fantasy;
+    font-weight: bolder;
+    font-size: 12px;
+    margin-left:61px;
+
+}
+
+.d{
+    position:absolute;
+    z-index: 100;
+    font-family: fantasy;
+    font-weight: bolder;
+    font-size: 17px;
+    margin-top: 54px;
+    margin-left: -65px;
+
+}

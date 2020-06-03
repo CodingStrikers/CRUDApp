@@ -1,0 +1,19 @@
+.p{
+    position: absolute;
+    z-index: 100;
+    font-family: fantasy;
+    font-weight: bolder;
+    padding: 185px;
+    font-size: 18px;
+    margin-left: 572px;
+    margin-top: 23px;
+
+}
+
+.s{
+    font-weight: bolder;
+    font-family: fantasy;
+    font-size: 20px;
+    margin-left: 42px;
+    margin-top: 17px;
+}

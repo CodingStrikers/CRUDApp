@@ -1,0 +1,16 @@
+.x{
+    font-weight: bolder;
+    font-family: fantasy;
+    color: black;
+    margin-left: 720px;
+    font-size: 18px;
+
+}
+
+
+.rs{
+    position: absolute;
+    z-index:100;
+    margin-top: 199px;
+    margin-left: 81px;
+}
