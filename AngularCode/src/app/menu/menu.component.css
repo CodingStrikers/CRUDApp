@@ -1,0 +1,15 @@
+   .r{
+   z-index: 100;
+    position: absolute;
+    display: inline;
+    margin-top: 199px;
+    font-size: 19px;
+    font-family: fantasy;
+    margin-left: 246px;
+   }
+
+    .s{
+        padding: 10px;
+        color: black;
+        font-weight: bolder;
+    }

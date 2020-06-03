@@ -1,0 +1,9 @@
+<form [formGroup]="LaddForm" (submit)="AddBook()">
+    <div class="p">
+       Book-ID : <input type="text" formControlName="bookid"><br><br>
+       Book-Name :   <input type="text" formControlName="bookname"><br><br>
+       Book-Author : <input type="text" formControlName="bookauthor"><br><br>
+       Book-Price :  <input type="text" formControlName="bookprice"><br><br>
+       <button class="s" type="submit">Add Book</button>
+    </div>
+    </form>
