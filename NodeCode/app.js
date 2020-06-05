@@ -57,8 +57,8 @@ app.post('/deladmin', (req, res) => {
 	var con = mysql.createConnection({
 		host: "localhost",
 		port: 8889,
-		user: "root",
-		password: "root",
+		user: "xyz",
+		password: "xyz",
 		database: "Vishnu"
 	});
 
@@ -86,8 +86,8 @@ app.post('/deldataofbook', (req, res) => {
 	var con = mysql.createConnection({
 		host: "localhost",
 		port: 8889,
-		user: "root",
-		password: "root",
+		user: "xyz",
+		password: "xyz",
 		database: "Vishnu"
 	});
 
@@ -115,8 +115,8 @@ app.post('/sbyid', (req, res) => {
 	var con = mysql.createConnection({
 		host: "localhost",
 		port: 8889,
-		user: "root",
-		password: "root",
+		user: "xyz",
+		password: "xyz",
 		database: "Vishnu"
 	});
 
@@ -142,8 +142,8 @@ app.post('/sbyau', (req, res) => {
 	var con = mysql.createConnection({
 		host: "localhost",
 		port: 8889,
-		user: "root",
-		password: "root",
+		user: "xyz",
+		password: "xyz",
 		database: "Vishnu"
 	});
 
@@ -168,8 +168,8 @@ app.post('/sbyna', (req, res) => {
 	var con = mysql.createConnection({
 		host: "localhost",
 		port: 8889,
-		user: "root",
-		password: "root",
+		user: "xyz",
+		password: "xyz",
 		database: "Vishnu"
 	});
 
@@ -195,8 +195,8 @@ app.post('/updatedat', (req, res) => {
 	var con = mysql.createConnection({
 		host: "localhost",
 		port: 8889,
-		user: "root",
-		password: "root",
+		user: "xyz",
+		password: "xyz",
 		database: "Vishnu"
 	});
 
